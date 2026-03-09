@@ -1,0 +1,10 @@
+*.md
+!README.md
+.env
+.DS_Store
+__pycache__/
+.ipynb_checkpoints/
+*.log
+*.csv
+*.json
+*.h5

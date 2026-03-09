@@ -1,0 +1,18 @@
+# Deep Learning & Transformers
+accelerate
+transformers
+datasets
+evaluate
+torch
+huggingface_hub
+
+# Data Manipulation & Machine Learning
+pandas
+numpy
+scikit-learn
+
+# Utilities & APIs
+tqdm
+nltk
+openai
+python-dotenv
